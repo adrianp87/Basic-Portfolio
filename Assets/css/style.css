@@ -1,0 +1,19 @@
+body {
+    background-image: url("../images/stripes.png");
+}
+#navbar {
+    text-align: right
+}
+.grid {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    background-color: silver
+}
+.About {
+    font-family: Georgia;
+    color: green
+}
+
+.paragraph {
+    font-family: 'Helvetica Neue'
+}
